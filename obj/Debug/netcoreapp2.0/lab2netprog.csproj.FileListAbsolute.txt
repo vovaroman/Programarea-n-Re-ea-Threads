@@ -1,0 +1,10 @@
+/Users/vr/Desktop/lab2NetProg/lab2netprog/bin/Debug/netcoreapp2.0/lab2netprog.deps.json
+/Users/vr/Desktop/lab2NetProg/lab2netprog/bin/Debug/netcoreapp2.0/lab2netprog.runtimeconfig.json
+/Users/vr/Desktop/lab2NetProg/lab2netprog/bin/Debug/netcoreapp2.0/lab2netprog.runtimeconfig.dev.json
+/Users/vr/Desktop/lab2NetProg/lab2netprog/bin/Debug/netcoreapp2.0/lab2netprog.dll
+/Users/vr/Desktop/lab2NetProg/lab2netprog/bin/Debug/netcoreapp2.0/lab2netprog.pdb
+/Users/vr/Desktop/lab2NetProg/lab2netprog/obj/Debug/netcoreapp2.0/lab2netprog.csproj.CoreCompileInputs.cache
+/Users/vr/Desktop/lab2NetProg/lab2netprog/obj/Debug/netcoreapp2.0/lab2netprog.AssemblyInfoInputs.cache
+/Users/vr/Desktop/lab2NetProg/lab2netprog/obj/Debug/netcoreapp2.0/lab2netprog.AssemblyInfo.cs
+/Users/vr/Desktop/lab2NetProg/lab2netprog/obj/Debug/netcoreapp2.0/lab2netprog.dll
+/Users/vr/Desktop/lab2NetProg/lab2netprog/obj/Debug/netcoreapp2.0/lab2netprog.pdb
